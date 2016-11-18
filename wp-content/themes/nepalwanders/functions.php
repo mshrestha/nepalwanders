@@ -6,6 +6,7 @@
  *
  * @package nepalwanders
  */
+require_once('main-nav-walker.php');
 
 if ( ! function_exists( 'nepalwanders_setup' ) ) :
 /**
