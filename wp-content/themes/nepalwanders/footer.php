@@ -22,6 +22,11 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/vendor/jquery-1.11.2.min.js"></script>
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/vendor/bootstrap.min.js"></script>
+
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/main.js"></script>
+
 <?php wp_footer(); ?>
 
 </body>
